@@ -1,0 +1,7 @@
+﻿  lab6.4.cpp
+C:\Users\Yoda\source\repos\lab6.4\lab6.4.cpp(29): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Yoda\source\repos\lab6.4\lab6.4.cpp(44): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Yoda\source\repos\lab6.4\lab6.4.cpp(50): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Yoda\source\repos\lab6.4\lab6.4.cpp(52): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Yoda\source\repos\lab6.4\lab6.4.cpp(66): warning C4018: '<': signed/unsigned mismatch
+  lab6.4.vcxproj -> C:\Users\Yoda\source\repos\lab6.4\Debug\lab6.4.exe
